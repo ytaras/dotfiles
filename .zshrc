@@ -35,5 +35,6 @@ ZSH_THEME="bira"
 plugins=(git ruby rails3 rvm cp debian)
 
 source $ZSH/oh-my-zsh.sh
+source ~/.zlogin
 
 # Customize to your needs...
