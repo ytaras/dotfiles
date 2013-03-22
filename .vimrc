@@ -1,0 +1,1 @@
+/home/ytaras/.vim/janus/vim/vimrc
