@@ -47,5 +47,5 @@ source ~/.zlogin
 
 ANDROID_HOME=/usr/local/lib/android-sdk-linux
 RUBY_GEM_HOME=/var/lib/gems/1.8
-PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools:$RUBY_GEM_HOME/bin
+PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools:$RUBY_GEM_HOME/bin:~/bin
 
